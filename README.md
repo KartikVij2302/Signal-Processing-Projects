@@ -1,4 +1,3 @@
-Here is a brief description you can include in the README of your GitHub repo based on the contents of your project report:
 
 ---
 
